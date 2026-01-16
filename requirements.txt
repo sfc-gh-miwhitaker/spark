@@ -1,0 +1,3 @@
+# Requires Python 3.10, 3.11, or 3.12
+snowpark-connect[jdk]
+jupyterlab
