@@ -1,4 +1,18 @@
+![Reference Implementation](https://img.shields.io/badge/Reference-Implementation-blue)
+![Ready to Run](https://img.shields.io/badge/Ready%20to%20Run-Yes-green)
+![Expires](https://img.shields.io/badge/Expires-2026--02--15-orange)
+
 # Run Your Spark Code on Snowflake
+
+> DEMONSTRATION PROJECT - EXPIRES: 2026-02-15  
+> This demo uses Snowflake features current as of January 2026.  
+> After expiration, this repository will be archived and made private.
+
+**Author:** SE Community  
+**Purpose:** Reference implementation for running PySpark code on Snowflake  
+**Created:** 2026-01-16 | **Expires:** 2026-02-15 (30 days) | **Status:** ACTIVE
+
+---
 
 Your existing PySpark code, running on Snowflake's engine. No clusters. No data movement.
 
