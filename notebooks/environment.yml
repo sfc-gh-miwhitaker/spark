@@ -1,0 +1,5 @@
+name: spark_on_snowflake
+channels:
+  - snowflake
+dependencies:
+  - snowpark_connect
