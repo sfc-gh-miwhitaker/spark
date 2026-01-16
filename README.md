@@ -11,7 +11,15 @@ Your existing PySpark code, running on Snowflake's engine. No clusters. No data 
 1. Open <a href="https://app.snowflake.com" target="_blank">Snowsight</a>
 2. Go to **Projects → Notebooks → Import .ipynb file**
 3. Upload `notebooks/spark_on_snowflake.ipynb`
-4. Click **Run All**
+4. Configure the notebook settings:
+
+<img src="images/create-notebook.png" alt="Create notebook dialog" width="500">
+
+   - **Runtime:** Run on warehouse
+   - **Runtime version:** Snowflake Warehouse Runtime 2.0
+   - **Query warehouse:** Any warehouse you have access to
+
+5. Click **Create**, then **Run All**
 
 That's it. The notebook runs on Snowflake's pre-configured environment.
 
