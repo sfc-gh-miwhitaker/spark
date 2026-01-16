@@ -8,7 +8,7 @@ Your existing PySpark code, running on Snowflake's engine. No clusters. No data 
 
 ### Option A: Snowflake Notebooks (No Setup)
 
-1. Open [Snowsight](https://app.snowflake.com)
+1. Open <a href="https://app.snowflake.com" target="_blank">Snowsight</a>
 2. Go to **Projects → Notebooks → Import .ipynb file**
 3. Upload `notebooks/spark_on_snowflake.ipynb`
 4. Click **Run All**
